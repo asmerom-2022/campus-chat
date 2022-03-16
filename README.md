@@ -1,1 +1,1 @@
-# campus-chat
+# campus_chat
